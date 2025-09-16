@@ -30,12 +30,14 @@
 | 學校名稱 | 科系 | 畢業年份 |
 |:---|:---:|---:|
 | 國立高雄科技大學 | 資訊管理系 | 2025 |
+| 國立清華大學 | 資訊系統與應用研究所 | 2027 |
 
 ---
 
 ### 我最喜歡的網站
 
 [前往 GitHub](https://github.com)
+![風景圖]((https://github.com/linchen1107/114-b-C112118201/blob/main/genshin-impact-hu-tao-wallpaper-1920x1200_6.jpg)
 
 ---
 
@@ -48,3 +50,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
