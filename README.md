@@ -38,7 +38,7 @@
 
 [前往 GitHub](https://github.com)
 
-![風景圖]((https://github.com/linchen1107/114-b-C112118201/blob/main/genshin-impact-hu-tao-wallpaper-1920x1200_6.jpg)
+![image]()
 
 ---
 
