@@ -37,6 +37,7 @@
 ### 我最喜歡的網站
 
 [前往 GitHub](https://github.com)
+
 ![風景圖]((https://github.com/linchen1107/114-b-C112118201/blob/main/genshin-impact-hu-tao-wallpaper-1920x1200_6.jpg)
 
 ---
@@ -50,5 +51,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
