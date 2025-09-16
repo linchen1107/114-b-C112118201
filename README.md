@@ -17,7 +17,7 @@
 
 我最擅長的一項技能是 **[寫程式]**。
 
-我的座右銘是：*「人生不是睡覺，就是睡覺。」*
+我的座右銘是：*「人生除了睡覺，就是睡覺。」*
 
 ---
 
@@ -38,7 +38,7 @@
 
 [前往 GitHub](https://github.com)
 
-![image]()
+![image](https://github.com/linchen1107/114-b-C112118201/blob/main/github.png)
 
 ---
 
